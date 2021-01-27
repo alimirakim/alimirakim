@@ -4,19 +4,19 @@
 <a href="Kim_Mira_Alicia_Resume.pdf" download>![Resume PDF](https://img.shields.io/badge/-Resume-f00?style=flat-square&logo=adobe&logoColor=white)</a>
 [![Alicia's email](https://img.shields.io/badge/email-ea4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:alicia.mira.kim@gmail.com)](mailto:alicia.mira.kim@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-❤_Portfolio-fd4?style=flat-square&logo=a&logoColor=white&link=https://alimirakim.github.io/)](https://alimirakim.github.io)
-[![Blog](https://img.shields.io/badge/-Blog-21759b?style=flat-square&logo=WordPress&logoColor=white&link=http://aliciamirakim.com/)](http://aliciamirakim.com)
+[![Blog](https://img.shields.io/badge/-Blog-21759b?style=flat-square&logo=WordPress&logoColor=white&link=https://aliciamirakim.com/)](https://aliciamirakim.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicia-mira-kim-416a0a41//)](https://www.linkedin.com/in/alicia-mira-kim-416a0a41)
 [![AngelList](https://img.shields.io/badge/-AngelList-black?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/alicia-mira-kim)](https://angel.co/u/alicia-mira-kim)
 [![GitHub alimirakim](https://img.shields.io/github/followers/alimirakim?label=follow&style=social)](https://github.com/alimirakim)
 
-<img src="icons/_pygma.gif" style="float: left;">
+<img src="icons/_pygma.gif" align="left">
 
 ### Quick Facts!
 ---
 - 💬 **Currently:** Jobseeker! Need a full-stack dev? Contact me! ^
 - 💼 **Work History:** CAD/Web Contractor (2 years-OSI), ESL Teacher (3 years-remote/VIPKID, 2 years-South Korea/EPIK) 
 - 🍎 **Education:** app Academy (SWE bootcamp), Towson University (Bachelor's Degree in General Design)
-- 🎨 **Hobbies:** Streaming code, pixel art, illustration, painting, candle-making, metals/jewelry-making, sewing, embroidery, historical and alternative fashion, video games, anime and manga, DnD, eating, sleeping... 💤
+- 🎨 **Hobbies:** Streaming code, game jams, pixel art, illustration, painting, candle-making, metals/jewelry-making, sewing, embroidery, historical and alternative fashion, video games, anime and manga, DnD, eating, sleeping... 💤
 - 🌱 **Learning Next:** TypeScript, Jest, NextJS, React Native, C#
 
 <!-- <img src="icons/_dvalita.jpg" style="float: right; width: 30%;"> -->
@@ -35,7 +35,7 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
 ### Technologies
 --------------------------------------
 
-<img src="icons/_pygmaiso.png" style="float: right;">
+<img src="icons/_pygmaiso.png" align="right">
 
 **Languages**
 
@@ -155,43 +155,21 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
 ###  Currently working on:
 -----------------------------
 
-<img src="icons/_pygmawalk.gif" style="float: right;">
+<img src="icons/_pygmawalk.gif">
 
-a. Rebuild Coven 
-  1. Layout
-  2. High-level styling (fonts, key colors, global rules
-  3. Functionality
-  4. Seeder data
-  5. Portfolio+README update/Postmortem
-  
-b. Complete V1 of The Chronicles/NPSeed
-  1. Debugging
-  2. Navigation/instructions
-  3. Seeder data
-  5. Portfolio+README update/Postmortem
-  
-c. Polish Persistamp
-  1. Debugging
-  2. Styling touchups
-  3. Drag-n-drop
-  
-d. General
-  1. Debugging, styling, READMEs, etc.
-  2. Web Design 101 Site
-  3. GenieBot Site
-  4. a/A Curriculum Review
-  5. Learn new tech (NextJS, Native
+| Rebuild Coven | Clean up Chronicles/NPSeed | Polish Persistamp | Afterwards |
+|---------------|----------------------------|-------------------|------------|
+| Layout        | Debugging                  | Styling touchups  | Polish     |
+| High-level styling (fonts, key colors, global rules) | Navigation/instructions | Drag-n-drop | Web Design 101 Site |
+| Functionality | Seeder data | Debugging, styling, READMEs, etc  | GenieBot Site
+| Seeder data   | | | a/A Curriculum Review |
+| Portfolio+README update/Postmortem | | | Learn new tech (NextJS, Native |
 
-
-
-
-<div style="position: relative; width: 100%; height: 150px;">
-  <img src="icons/_pouch.png" style="position: absolute; left: 50%; transform: translateX(-50%);">
-</div>
+<p align="center"><img src="icons/_pouch.png" align="center"></p>
 
 ---------------------------------
-<small style="font-size: 0.6rem">
-<img src="icons/_minipygma.png" style="float: left;"> Thank you (attributions):
+<small style="font-size: 0.5rem">
+<img src="icons/_minipygma.png" align="left"> Thank you (attributions):
   
   [REST API Icon](https://www.visualpharm.com/free-icons/rest%20api-595b40b65ba036ed117d1778) | [Agile Icon](https://thenounproject.com/search/?q=agile&i=3428387) | [terminal by Bluetip Design from the Noun Project](https://thenounproject.com/term/terminal/334312/) | [kanban by Shocho from the Noun Project](https://thenounproject.com/search/?q=kanban&i=3688361) | [agile by SBTS from the Noun Project](https://thenounproject.com/search/?q=agile&i=3428387)| <a href="https://iconscout.com/icons/maya" target="_blank">Maya Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>
 
