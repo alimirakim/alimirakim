@@ -11,8 +11,6 @@
 
 <img src="icons/_pygma.gif" align="left">
 
-### Quick Facts!
----
 - 💬 **Currently:** Jobseeker! Need a full-stack dev? Contact me! ^
 - 💼 **Work History:** CAD/Web Contractor (2 years-OSI), ESL Teacher (3 years-remote/VIPKID, 2 years-South Korea/EPIK) 
 - 🍎 **Education:** app Academy (SWE bootcamp), Towson University (Bachelor's Degree in General Design)
@@ -32,13 +30,14 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
 
 
 
-### Technologies
+<img src="icons/_knife.gif" align="right">
+
+### Tools & Technologies
 --------------------------------------
 
-<img src="icons/_pygmaiso.png" align="right">
+<img src="icons/_pygmaiso.png" align="right" style="clear: both">
 
 **Languages**
-
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="icons/python.svg" alt=" icon" width="25" height="25">
   <img src="icons/javascript.svg" alt=" icon" width="25" height="25">
@@ -51,7 +50,6 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
 
 
 **Frontend** 
-
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="icons/react.svg" alt=" icon" width="25" height="25">
   <img src="icons/redux.svg" alt=" icon" width="25" height="25">
@@ -64,7 +62,6 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
   <img src="icons/fontawesome.svg" alt="Font Awesome icon" width="25" height="25">
 
 **Backend** 
-
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="icons/flask.svg" alt=" icon" width="25" height="25">
   <img src="icons/express.svg" alt=" icon" width="25" height="25">
@@ -73,7 +70,6 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
   <img src="icons/django.svg" alt=" icon" width="25" height="25">
 
 **Database** 
-
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="icons/postgresql.svg" alt=" icon" width="25" height="25">
   <img src="icons/sequelize.svg" alt=" icon" width="25" height="25">
@@ -81,7 +77,6 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
   <img src="icons/sql.svg" alt=" icon" width="25" height="25">
 
 **Systems** 
-
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="icons/windows.svg" alt=" icon" width="25" height="25">
   <img src="icons/powershell.svg" alt=" icon" width="25" height="25">
@@ -89,7 +84,6 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
   <img src="icons/gnubash.svg" alt=" icon" width="25" height="25">
 
 **IDEs & Tools** 
-
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="icons/visualstudiocode.svg" alt=" icon" width="25" height="25">
   <img src="icons/pycharm.svg" alt=" icon" width="25" height="25">
@@ -106,7 +100,6 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
   <img src="icons/awsamplify.svg" alt=" icon" width="25" height="25">
 
 **Collaborative** 
-
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="icons/git.svg" alt=" icon" width="25" height="25">
   <img src="icons/github.svg" alt=" icon" width="25" height="25">
@@ -117,7 +110,6 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
   <img src="icons/kanban.svg" alt=" icon" width="25" height="25">
 
 **Design** 
-
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="icons/adobe.svg" alt=" icon" width="25" height="25">
   <img src="icons/adobephotoshop.svg" alt=" icon" width="25" height="25">
@@ -136,7 +128,6 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
   <img src="icons/affinitypublisher.svg" alt="Affinity Publisher icon" width="25" height="25"> -->
 
 **Other** 
-
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="icons/microsoftoffice.svg" alt=" icon" width="25" height="25">
   <img src="icons/audacity.svg" alt=" icon" width="25" height="25">
