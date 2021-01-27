@@ -150,12 +150,10 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
 <!-- <img src="icons/.svg" alt=" icon" width="25" height="25"> -->
 
 
-
-
-###  Currently working on:
+### Currently working on:
 -----------------------------
 
-<img src="icons/_pygmawalk.gif">
+<p align="center"><img src="icons/_pygmawalk.gif" align="center" width="72px"></p>
 
 | Rebuild Coven | Clean up Chronicles/NPSeed | Polish Persistamp | Afterwards |
 |---------------|----------------------------|-------------------|------------|
@@ -165,7 +163,8 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
 | Seeder data   | | | a/A Curriculum Review |
 | Portfolio+README update/Postmortem | | | Learn new tech (NextJS, Native |
 
-<p align="center"><img src="icons/_pouch.png" align="center"></p>
+
+
 
 ---------------------------------
 <small style="font-size: 0.5rem">
@@ -174,3 +173,5 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
   [REST API Icon](https://www.visualpharm.com/free-icons/rest%20api-595b40b65ba036ed117d1778) | [Agile Icon](https://thenounproject.com/search/?q=agile&i=3428387) | [terminal by Bluetip Design from the Noun Project](https://thenounproject.com/term/terminal/334312/) | [kanban by Shocho from the Noun Project](https://thenounproject.com/search/?q=kanban&i=3688361) | [agile by SBTS from the Noun Project](https://thenounproject.com/search/?q=agile&i=3428387)| <a href="https://iconscout.com/icons/maya" target="_blank">Maya Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>
 
 </small>
+
+<p align="center"><img src="icons/_pouch.png" align="center"></p>
