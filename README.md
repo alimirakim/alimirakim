@@ -129,7 +129,6 @@
 <!-- <img src="icons/.svg" alt=" icon" width="25" height="25"> -->
 <br>
 <p align="center"><img src="icons/_knife.gif" align="center" width="140px"></p>
-<br>
 
 ### Currently working on:
 -----------------------------
