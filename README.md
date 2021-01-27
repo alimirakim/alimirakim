@@ -133,7 +133,6 @@
 
 <!-- <img src="icons/.svg" alt=" icon" width="25" height="25"> -->
 
-<div style="clear: both"><br></div>
 
 <!-- 
 ### Currently working on:
