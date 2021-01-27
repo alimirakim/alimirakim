@@ -1,3 +1,5 @@
+<img src="icons/_pouch.png" align="right" width="96">
+
 ## Hello, world! It's Alicia Mira Kim!
 <!-- TODO: Badges, picture, project previews/links -->
 
@@ -17,13 +19,15 @@
 - 🎨 **Hobbies:** Streaming code, game jams, pixel art, drawing, painting, candle-making, jewelry-making, sewing, embroidery, historical/lternative fashion, video games, anime/manga, DnD, eating, sleeping... 💤
 - 🌱 **Learning Next:** TypeScript, Jest, NextJS, React Native, C#
 
-<p align="center"><img src="icons/_pouch.png" align="center" width="96"></p>
+---
 
+<img src="icons/_knife.gif" align="left" width="140px">
 
-### Tools & Technologies
-------------------------
+### &nbsp;&nbsp;&nbsp;&nbsp;Tools & Technologies
 
+<div style="clear: both"><br></div>
 <img src="icons/_pygmaiso.png" align="right">
+
 
 **Languages**
   &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -36,6 +40,7 @@
   <img src="icons/json.svg" alt=" icon" width="25" height="25">
   <img src="icons/markdown.svg" alt=" icon" width="25" height="25">
 
+</div>
 
 **Frontend** 
   &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -127,9 +132,9 @@
   <img src="icons/itch-dot-io.svg" alt=" icon" width="25" height="25">
 
 <!-- <img src="icons/.svg" alt=" icon" width="25" height="25"> -->
-<br>
-<p align="center"><img src="icons/_knife.gif" align="center" width="140px"></p>
 
+
+<!-- 
 ### Currently working on:
 -----------------------------
 
@@ -139,10 +144,9 @@
 | High-level styling (fonts, key colors, global rules) | Navigation/instructions | Drag-n-drop | Web Design 101 Site |
 | Functionality | Seeder data | Debugging, styling, READMEs, etc  | GenieBot Site
 | Seeder data   | | | a/A Curriculum Review |
-| Portfolio+README update/Postmortem | | | Learn new tech (NextJS, Native |
+| Portfolio+README update/Postmortem | | | Learn new tech (NextJS, Native | 
+-->
 
-<br>
-<p align="center"><img src="icons/_pygmawalk.gif" align="center" width="72"></p>
 
 ---------------------------------
 <small style="font-size: 0.4rem">
@@ -151,3 +155,5 @@
   [REST API Icon](https://www.visualpharm.com/free-icons/rest%20api-595b40b65ba036ed117d1778) | [Agile Icon](https://thenounproject.com/search/?q=agile&i=3428387) | [terminal by Bluetip Design from the Noun Project](https://thenounproject.com/term/terminal/334312/) | [kanban by Shocho from the Noun Project](https://thenounproject.com/search/?q=kanban&i=3688361) | [agile by SBTS from the Noun Project](https://thenounproject.com/search/?q=agile&i=3428387)| <a href="https://iconscout.com/icons/maya" target="_blank">Maya Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>
 
 </small>
+
+<p align="center"><img src="icons/_pygmawalk.gif" align="center" width="36"> We can do it!!</p>
