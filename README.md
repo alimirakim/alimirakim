@@ -23,11 +23,9 @@
 
 <img src="icons/_knife.gif" align="left" width="140px">
 
-### &nbsp;&nbsp;&nbsp;&nbsp;Tools & Technologies
+### &nbsp;&nbsp;Tools & Technologies
 
 <div style="clear: both"><br></div>
-<img src="icons/_pygmaiso.png" align="right">
-
 
 **Languages**
   &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -40,8 +38,6 @@
   <img src="icons/json.svg" alt=" icon" width="25" height="25">
   <img src="icons/markdown.svg" alt=" icon" width="25" height="25">
 
-</div>
-
 **Frontend** 
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="icons/react.svg" alt=" icon" width="25" height="25">
@@ -51,6 +47,7 @@
   <img src="icons/jinja.svg" alt=" icon" width="25" height="25">
   <img src="icons/javascript.svg" alt=" icon" width="25" height="25">
   <img src="icons/wordpress.svg" alt="wordpress icon" width="25" height="25">
+  <img src="icons/ajax.svg" alt=" icon" width="25" height="25">
   <img src="icons/heroku.svg" alt="webpack icon" width="25" height="25">
   <img src="icons/fontawesome.svg" alt="Font Awesome icon" width="25" height="25">
 
@@ -91,6 +88,9 @@
   <img src="icons/jsonwebtokens.svg" alt=" icon" width="25" height="25">
   <img src="icons/docker.svg" alt=" icon" width="25" height="25">
   <img src="icons/awsamplify.svg" alt=" icon" width="25" height="25">
+
+<img src="icons/_pygmaiso.png" align="right">
+
 
 **Collaborative** 
   &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -133,6 +133,7 @@
 
 <!-- <img src="icons/.svg" alt=" icon" width="25" height="25"> -->
 
+<div style="clear: both"><br></div>
 
 <!-- 
 ### Currently working on:
