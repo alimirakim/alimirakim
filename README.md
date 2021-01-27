@@ -11,31 +11,19 @@
 
 <img src="icons/_pygma.gif" align="left">
 
-- 💬 **Currently:** Jobseeker! Need a full-stack dev? Contact me! ^
-- 💼 **Work History:** CAD/Web Contractor (2 years-OSI), ESL Teacher (3 years-remote/VIPKID, 2 years-South Korea/EPIK) 
+- 💬 **Currently:** Jobseeker! Need a full-stack dev? Contact me! :D
+- 💼 **Work History:** CAD/Web Contractor (2yrs-OSI), ESL Teacher (3yrs-remote/VIPKid, 2yrs-South Korea/EPIK) 
 - 🍎 **Education:** app Academy (SWE bootcamp), Towson University (Bachelor's Degree in General Design)
-- 🎨 **Hobbies:** Streaming code, game jams, pixel art, illustration, painting, candle-making, metals/jewelry-making, sewing, embroidery, historical and alternative fashion, video games, anime and manga, DnD, eating, sleeping... 💤
+- 🎨 **Hobbies:** Streaming code, game jams, pixel art, drawing, painting, candle-making, jewelry-making, sewing, embroidery, historical/lternative fashion, video games, anime/manga, DnD, eating, sleeping... 💤
 - 🌱 **Learning Next:** TypeScript, Jest, NextJS, React Native, C#
 
-<!-- <img src="icons/_dvalita.jpg" style="float: right; width: 30%;"> -->
+<p align="center"><img src="icons/_pouch.png" align="center" width="96"></p>
 
-<!-- [![AngelList](https://img.shields.io/badge/-AngelList-blue?style=flat-square&logo=AngelList&logoColor=white)](www.wow.com)
-
-[![email]()]()
-[![Follow]()]()
-[![Portfolio]()]()
-[![Blog]()]()
-
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -->
-
-
-
-<img src="icons/_knife.gif" align="right">
 
 ### Tools & Technologies
---------------------------------------
+------------------------
 
-<img src="icons/_pygmaiso.png" align="right" style="clear: both">
+<img src="icons/_pygmaiso.png" align="right">
 
 **Languages**
   &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -139,12 +127,12 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
   <img src="icons/itch-dot-io.svg" alt=" icon" width="25" height="25">
 
 <!-- <img src="icons/.svg" alt=" icon" width="25" height="25"> -->
-
+<br>
+<p align="center"><img src="icons/_knife.gif" align="center" width="140px"></p>
+<br>
 
 ### Currently working on:
 -----------------------------
-
-<p align="center"><img src="icons/_pygmawalk.gif" align="center" width="72px"></p>
 
 | Rebuild Coven | Clean up Chronicles/NPSeed | Polish Persistamp | Afterwards |
 |---------------|----------------------------|-------------------|------------|
@@ -154,15 +142,13 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR> -
 | Seeder data   | | | a/A Curriculum Review |
 | Portfolio+README update/Postmortem | | | Learn new tech (NextJS, Native |
 
-
-
+<br>
+<p align="center"><img src="icons/_pygmawalk.gif" align="center" width="72"></p>
 
 ---------------------------------
-<small style="font-size: 0.5rem">
+<small style="font-size: 0.4rem">
 <img src="icons/_minipygma.png" align="left"> Thank you (attributions):
   
   [REST API Icon](https://www.visualpharm.com/free-icons/rest%20api-595b40b65ba036ed117d1778) | [Agile Icon](https://thenounproject.com/search/?q=agile&i=3428387) | [terminal by Bluetip Design from the Noun Project](https://thenounproject.com/term/terminal/334312/) | [kanban by Shocho from the Noun Project](https://thenounproject.com/search/?q=kanban&i=3688361) | [agile by SBTS from the Noun Project](https://thenounproject.com/search/?q=agile&i=3428387)| <a href="https://iconscout.com/icons/maya" target="_blank">Maya Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>
 
 </small>
-
-<p align="center"><img src="icons/_pouch.png" align="center"></p>
