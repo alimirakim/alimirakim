@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1500" height="1500" viewBox="0, 0, 1500, 1500">
+<svg version="1.1" 
+xmlns="http://www.w3.org/2000/svg" 
+xmlns:xlink="http://www.w3.org/1999/xlink" 
+x="0" y="0" 
+width="1500" height="1500" 
+viewBox="0, 0, 1400, 1250">
   <g id="pytest_logo">
     <g id="graphics">
       <path d="M521.576,213.75 L952.616,213.75 C964.283,213.75 973.741,223.208 973.741,234.875 L973.741,234.875 C973.741,246.542 964.283,256 952.616,256 L521.576,256 C509.909,256 500.451,246.542 500.451,234.875 L500.451,234.875 C500.451,223.208 509.909,213.75 521.576,213.75 z" fill="#696969" id="horizontal_bar"/>
