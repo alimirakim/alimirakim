@@ -166,11 +166,9 @@
 
 
 ---------------------------------
-<small style="font-size: 0.4rem">
-<img src="icons/_minipygma.png" align="left"> Thank you (attributions):
-  
-  [REST API Icon](https://www.visualpharm.com/free-icons/rest%20api-595b40b65ba036ed117d1778) | [Agile Icon](https://thenounproject.com/search/?q=agile&i=3428387) | [terminal by Bluetip Design from the Noun Project](https://thenounproject.com/term/terminal/334312/) | [kanban by Shocho from the Noun Project](https://thenounproject.com/search/?q=kanban&i=3688411) | [agile by SBTS from the Noun Project](https://thenounproject.com/search/?q=agile&i=3428387)| <a href="https://iconscout.com/icons/maya" target="_blank">Maya Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>
 
-</small>
+<img src="icons/_minipygma.png" align="left"> 
+
+**Thank you (attributions)**  <a href="https://iconscout.com/icons/maya" target="_blank">Maya Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>, [REST API Icon](https://www.visualpharm.com/free-icons/rest%20api-595b40b65ba036ed117d1778), The Noun Project: [terminal by Bluetip](https://thenounproject.com/term/terminal/334312/), [kanban by Shocho ](https://thenounproject.com/search/?q=kanban&i=3688411), [agile by SBTS](https://thenounproject.com/search/?q=agile&i=3428387)
 
 <p align="center"><img src="icons/_pygmawalk.gif" align="center" width="36"> We can do it!!</p>
