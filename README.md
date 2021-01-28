@@ -20,10 +20,10 @@
 - 🎨 **Hobbies:** Streaming code, game jams, pixel art, drawing, painting, candle-making, jewelry-making, sewing, embroidery, historical/lternative fashion, video games, anime/manga, DnD, eating, sleeping... 💤
 - 🌱 **Learning Next:** TypeScript, Jest, NextJS, React Native, C#
 
----
+<!-- --- -->
 
 <!-- <img src="icons/_knife.gif" align="left" width="140px"> -->
-<img src="icons/_cd.gif" align="right" width="48px" style="margin-right: 20px;">
+<img src="icons/_cd.gif" align="right" width="48px">
 
 
 ## &nbsp;&nbsp;Tools & Technologies
