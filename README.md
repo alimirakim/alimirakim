@@ -23,7 +23,7 @@
 <!-- --- -->
 
 <!-- <img src="icons/_knife.gif" align="left" width="140px"> -->
-<img src="icons/_cd.gif" align="right" width="48px">
+<img src="icons/_cd.png" align="right" height="48px">
 
 
 ## &nbsp;&nbsp;Tools & Technologies
