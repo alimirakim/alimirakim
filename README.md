@@ -28,6 +28,7 @@
 
 ## &nbsp;&nbsp;Tools & Technologies
 
+sql by LAFS from the Noun Project
 <!-- <div style="clear: both"><br></div> -->
 
 **Languages**
