@@ -68,7 +68,7 @@
   <img src="icons/postgresql.svg" alt=" icon" width="25" height="25">
   <img src="icons/sequelize.svg" alt=" icon" width="25" height="25">
   <img src="icons/sqlalchemy.svg" alt=" icon" width="25" height="25">
-  <img src="icons/sqlb.svg" alt=" icon" width="25" height="25">
+  <img src="icons/sql.svg" alt=" icon" width="25" height="25">
 
 **Systems** 
   &nbsp;&nbsp;&nbsp;&nbsp; 
