@@ -173,4 +173,4 @@
 
 **Thank you (attributions)**  <a href="https://iconscout.com/icons/maya" target="_blank">Maya Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>, [REST API Icon](https://www.visualpharm.com/free-icons/rest%20api-595b40b65ba036ed117d1778), The Noun Project: [terminal by Bluetip](https://thenounproject.com/term/terminal/334312/), [kanban by Shocho ](https://thenounproject.com/search/?q=kanban&i=3688411), [agile by SBTS](https://thenounproject.com/search/?q=agile&i=3428387)
 
-<p align="center"><img src="icons/_pygmawalk.gif" align="center" width="36"> We can do it!!</p>
+<p align="center"><img src="icons/_pygmawalk.gif" align="center" width="48"> We can do it!!</p>
