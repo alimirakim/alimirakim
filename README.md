@@ -99,9 +99,6 @@
 
 
 
-<img src="icons/_pygmaiso.png" align="right">
-
-
 **Collaborative** 
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="icons/git.svg" alt=" icon" width="25" height="25">
@@ -111,6 +108,9 @@
   <img src="icons/discord.svg" alt=" icon" width="25" height="25">
   <img src="icons/slack.svg" alt=" icon" width="25" height="25">
   <img src="icons/zoom.svg" alt=" icon" width="25" height="25">
+
+<img src="icons/_pygmaiso.png" align="right">
+
 
 **Design** 
   &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -171,6 +171,6 @@
 
 <img src="icons/_minipygma.png" align="left"> 
 
-**Thank you (attributions)**  <a href="https://iconscout.com/icons/maya" target="_blank">Maya Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>, [REST API Icon](https://www.visualpharm.com/free-icons/rest%20api-595b40b65ba036ed117d1778), The Noun Project: [terminal by Bluetip](https://thenounproject.com/term/terminal/334312/), [kanban by Shocho ](https://thenounproject.com/search/?q=kanban&i=3688411), [agile by SBTS](https://thenounproject.com/search/?q=agile&i=3428387)
+**Thank you (attributions)**  <a href="https://iconscout.com/icons/maya" target="_blank">Maya Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>, [REST API Icon](https://www.visualpharm.com/free-icons/rest%20api-595b40b65ba036ed117d1778), The Noun Project: [terminal by Bluetip](https://thenounproject.com/term/terminal/334312/), [kanban by Shocho ](https://thenounproject.com/search/?q=kanban&i=3688411), [agile by SBTS](https://thenounproject.com/search/?q=agile&i=3428387), [SQL File by Milinda Courey ](https://thenounproject.com/search/?q=sql&i=237080)
 
 <p align="center"><img src="icons/_pygmawalk.gif" align="center" width="48"> We can do it!!</p>
