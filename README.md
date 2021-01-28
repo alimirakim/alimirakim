@@ -22,11 +22,13 @@
 
 ---
 
-<img src="icons/_knife.gif" align="left" width="140px">
+<!-- <img src="icons/_knife.gif" align="left" width="140px"> -->
+<img src="icons/_cd.gif" align="right" width="48px" style="margin-right: 20px;">
 
-### &nbsp;&nbsp;Tools & Technologies
 
-<div style="clear: both"><br></div>
+## &nbsp;&nbsp;Tools & Technologies
+
+<!-- <div style="clear: both"><br></div> -->
 
 **Languages**
   &nbsp;&nbsp;&nbsp;&nbsp; 
