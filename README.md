@@ -15,11 +15,11 @@
 
 <img src="icons/_pygma.gif" align="left">
 
-- 💬 **Currently:** Jobseeker! Need a full-stack dev? Contact me! :D
-- 💼 **Work History:** CAD/Web Contractor (2yrs-OSI), ESL Teacher (3yrs-remote/VIPKid, 2yrs-South Korea/EPIK) 
+- 💬 **Currently:** Software Engineer at [Vareto](https://www.vareto.com/)
+- 💼 **Work History:** CAD/Web Contractor (2yrs-OSI), ESL Teacher (3yrs-remote/VIPKid), 2yrs-South Korea/EPIK) 
 - 🍎 **Education:** App Academy (SWE bootcamp), Towson University (Bachelor's, General Design)
 - 🎨 **Hobbies:** Streaming code, game jams, pixel art, drawing, painting, candle-making, jewelry-making, sewing, embroidery, historical/lternative fashion, video games, anime/manga, DnD, eating, sleeping... 💤
-- 🌱 **Learning Next:** TypeScript, Prisma, Jest, React Native, C#
+- 🌱 **Learning Next:** C#, Jest, React Native
 
 <!-- --- -->
 
